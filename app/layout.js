@@ -10,7 +10,7 @@ const geistMono = Geist_Mono({
   variable: "--font-geist-mono",
   subsets: ["latin"],
 });
-//hello
+//hello sanchi we are checking git
 export const metadata = {
   title: "Portfolio",
   description: "",
